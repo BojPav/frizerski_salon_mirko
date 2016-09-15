@@ -1,0 +1,47 @@
+.container-fluid {
+    background-color: skyblue;
+    margin: 2px 2px 0px 2px;
+}
+h1  {
+    text-align: center;
+}
+#myCarousel {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.ostalo {
+    height: 200px;
+}
+.pozadina_za_table  {
+    background-color: cornflowerblue;
+}
+.table-bordered   {
+    width: 100%;
+    height: 210px;
+    text-align: center;
+}
+.faq    {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.naslov {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    height: auto;
+}
+.img-responsive {
+    height: 100%;
+    width: 100%;
+}
+.footer {
+    margin-bottom: 20px;
+}
+.navigacija {
+    text-align: right;
+}
+.panel-heading   {
+    text-align: center
+}
